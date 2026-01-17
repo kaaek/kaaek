@@ -9,7 +9,7 @@
 - I approach projects with a start-now mindset: open the editor, write that first imperfect line, and refine as you go. Creativity is fleeting, and implementation can always be cleaned up later.
 - My current work centers on post-quantum cryptography research.
 - My interests span the full security landscape: from penetration testing engagements and exploit development to SOC operations, malware analysis, and formal verification.
-- Beyond academics, I've spent years contributing to **SkillSaff**, a community service project offering college counseling resources, exam materials, and technical tutorials. After a three-year pause, I'm returning to continue this work soon.
+- Beyond academics, I've spent years contributing to **SkillSaff**, a community service project offering college counseling resources, exam materials, and technical tutorials to marginalized public schools in Beirut. After a three-year pause, I'm returning to continue this work soon.
 
 ## Tech Stack
 
