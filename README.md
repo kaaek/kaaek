@@ -2,7 +2,7 @@
 
 **Research Assistant in Post-Quantum Cryptography, Computer Engineering Student @ AUB**
 
-## About Me
+## Brief
 
 - I'm a third-year Computer Engineering student at the American University of Beirut.
 - I'm driven by a focus on security: penetration testing, cryptography, and research.
@@ -27,7 +27,7 @@ This is as an exhaustive list as I can come up with. Here goes.
 
 **Backend Development Course (In Progress):** Building a Spring Boot curriculum for Java developers covering RESTful APIs, bean validation, HTTP semantics, security hardening, and DevOps integration. I plan to give this course on campus :)
 
-## Current Focus
+## What I'm up to
 
 - Learning about [cryptography](https://appliedcryptography.page/#resources) and [formal verification](https://danieldia-dev.github.io/proofs/).
 - I'm taking Ethical Hacking II this semester, which focuses on Windows hacking, active directory attacks, malware development, among other topics.
