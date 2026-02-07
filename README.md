@@ -11,12 +11,11 @@
 
 ## Tech Stack
 
-This is as an exhaustive list as I can come up with. Here goes.
-
 **Programming & Scripting:** Bash, Batch, PowerShell, Python, Java, C/C++, MATLAB, and SQL
 **Backend Frameworks & DevOps:** Spring Boot, PostgreSQL/SQLite, Docker
 
-## GNU Pentest Tools
+## Pentest Tools I Use
+
 **Reconnaissance & Enumeration:** Nmap, Subfinder, Ffuf/Dirb, WhatWeb, Nikto, Wireshark  
 **Exploitation & Vulnerability:** Metasploit, Burp Suite, SQLmap, Hydra, John the Ripper, Hashcat  
 **Post-Exploitation & PrivEsc:** GTFOBins, PEASS-ng  
