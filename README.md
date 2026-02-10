@@ -12,12 +12,15 @@
 ## Tech Stack
 
 **Programming & Scripting:** Bash, Batch, PowerShell, Python, Java, C/C++, MATLAB, and SQL
+
 **Backend Frameworks & DevOps:** Spring Boot, PostgreSQL/SQLite, Docker
 
 ## Pentest Tools I Use
 
 **Reconnaissance & Enumeration:** Nmap, Subfinder, Ffuf/Dirb, WhatWeb, Nikto, Wireshark  
+
 **Exploitation & Vulnerability:** Metasploit, Burp Suite, SQLmap, Hydra, John the Ripper, Hashcat  
+
 **Post-Exploitation & PrivEsc:** GTFOBins, PEASS-ng  
 
 ## Featured Projects
