@@ -1,6 +1,6 @@
 # Hi, I'm Khalil El Kaaki
 
-**Junior Computer Engineering Student at AUB, Research Assistant in Post-Quantum Cryptography for IoT**
+**Junior Computer Engineering Student at AUB, Ethical Hacker**
 
 ## Brief
 
