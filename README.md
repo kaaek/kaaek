@@ -1,19 +1,18 @@
 # Hi, I'm Khalil El Kaaki
 
-**Junior Computer Engineering Student at AUB, Ethical Hacker**
+**Ethical Hacker**
 
 ## Brief
 
 - I'm a third-year Computer Engineering student at the American University of Beirut focused on offensive security.
-- I'm currently looking into a post-quantum password-authenticated key exchange (PQ-PAKE) implementation for the Thread network layer protocol for IoT.
-- Beyond academics, I've spent years contributing to **SkillSaff**, a community service project offering college counseling resources, exam materials, and technical tutorials to marginalized public schools in Beirut. After a three-year pause, I'm returning to continue this work soon.
 - I approach projects with a start-now mindset: open the editor, write that first bad line of code, and refine as you go. Creativity is fleeting, and implementation can always be cleaned up later.
+- Beyond academics, I've spent years contributing to **SkillSaff**, a community service project offering college counseling resources, exam materials, and technical tutorials to marginalized public schools in Beirut. After a three-year pause, I'm returning to continue this work soon.
 
 ## Tech Stack
 
-**Programming & Scripting:** Bash, Batch, PowerShell, Python, Java, C/C++, MATLAB, and SQL
+**Programming & Scripting:** Bash, Batch, PowerShell, Python, Java, C/C++, and SQL
 
-**Backend Frameworks & DevOps:** Spring Boot, PostgreSQL/SQLite, Docker
+**Backend Frameworks & DevOps:** Spring Boot, PostgreSQL/SQLite, Docker, AWS (basics)
 
 ## Pentest Tools I Use
 
@@ -21,7 +20,7 @@
 
 **Exploitation & Vulnerability:** Metasploit, Burp Suite, SQLmap, Hydra, John the Ripper, Hashcat  
 
-**Post-Exploitation & PrivEsc:** GTFOBins, PEASS-ng  
+**Post-Exploitation & PrivEsc:** GTFOBins, PEASS-ng, PowerUp
 
 ## Featured Projects
 
