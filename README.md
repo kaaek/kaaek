@@ -14,14 +14,6 @@
 
 **Backend Frameworks & DevOps:** Spring Boot, PostgreSQL/SQLite, Docker, AWS (basics)
 
-## Pentest Tools I Use
-
-**Reconnaissance & Enumeration:** Nmap, Subfinder, Ffuf/Dirb, WhatWeb, Nikto, Wireshark  
-
-**Exploitation & Vulnerability:** Metasploit, Burp Suite, SQLmap, Hydra, John the Ripper, Hashcat  
-
-**Post-Exploitation & PrivEsc:** GTFOBins, PEASS-ng, PowerUp
-
 ## Featured Projects
 
 **[UAV-MEC Trajectory Network Optimizer](https://github.com/kaaek/UAV-MEC-Trajectory-Network-Optimizer):** PyTorch project that simulates and optimizes the trajectory of an aerial (UAV) compute edge node to maximize the number of tasks completed for users (optimizing for service.)
